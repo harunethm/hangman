@@ -1,0 +1,1662 @@
+{
+    "animals": {
+        "5": [
+            {
+                "_id": "5fee49e11935ff7c8aa1660b",
+                "word": "cobra",
+                "category": "animal",
+                "numLetters": 5,
+                "numSyllables": 2,
+                "hint": "Hooded snake"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660c",
+                "word": "tiger",
+                "category": "animal",
+                "numLetters": 5,
+                "numSyllables": 2,
+                "hint": "Striped big cat"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660d",
+                "word": "zebra",
+                "category": "animal",
+                "numLetters": 5,
+                "numSyllables": 2,
+                "hint": "Striped African animal"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660e",
+                "word": "gazelle",
+                "category": "animal",
+                "numLetters": 7,
+                "numSyllables": 2,
+                "hint": "African antelope"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660f",
+                "word": "rabbit",
+                "category": "animal",
+                "numLetters": 6,
+                "numSyllables": 2,
+                "hint": "Small mammal with long ears"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660g",
+                "word": "giraffe",
+                "category": "animal",
+                "numLetters": 7,
+                "numSyllables": 2,
+                "hint": "Tall, long-necked mammal"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660h",
+                "word": "elephant",
+                "category": "animal",
+                "numLetters": 8,
+                "numSyllables": 3,
+                "hint": "Large mammal with a trunk"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660i",
+                "word": "crocodile",
+                "category": "animal",
+                "numLetters": 9,
+                "numSyllables": 3,
+                "hint": "Large reptile with a long snout"
+            }
+        ],
+        "6": [
+            {
+                "_id": "5fee49e11935ff7c8aa1660j",
+                "word": "gibbon",
+                "category": "animal",
+                "numLetters": 6,
+                "numSyllables": 2,
+                "hint": "Small ape"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660k",
+                "word": "ostrich",
+                "category": "animal",
+                "numLetters": 7,
+                "numSyllables": 2,
+                "hint": "Large, flightless bird"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660l",
+                "word": "octopus",
+                "category": "animal",
+                "numLetters": 7,
+                "numSyllables": 3,
+                "hint": "Eight-armed sea creature"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660m",
+                "word": "kangaroo",
+                "category": "animal",
+                "numLetters": 8,
+                "numSyllables": 3,
+                "hint": "Australian marsupial"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660n",
+                "word": "elephant",
+                "category": "animal",
+                "numLetters": 8,
+                "numSyllables": 3,
+                "hint": "Large mammal with a trunk"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660o",
+                "word": "cheetah",
+                "category": "animal",
+                "numLetters": 7,
+                "numSyllables": 2,
+                "hint": "Fastest land animal"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660p",
+                "word": "hamster",
+                "category": "animal",
+                "numLetters": 7,
+                "numSyllables": 2,
+                "hint": "Small rodent kept as a pet"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660q",
+                "word": "penguin",
+                "category": "animal",
+                "numLetters": 7,
+                "numSyllables": 3,
+                "hint": "Flightless bird"
+            }
+        ],
+        "7": [
+            {
+                "_id": "5fee49e11935ff7c8aa1660r",
+                "word": "panther",
+                "category": "animal",
+                "numLetters": 7,
+                "numSyllables": 2,
+                "hint": "Big cat with black fur"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660s",
+                "word": "rhinoceros",
+                "category": "animal",
+                "numLetters": 10,
+                "numSyllables": 3,
+                "hint": "Large horned mammal"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660t",
+                "word": "elephant",
+                "category": "animal",
+                "numLetters": 8,
+                "numSyllables": 3,
+                "hint": "Large mammal with a trunk"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660u",
+                "word": "dolphin",
+                "category": "animal",
+                "numLetters": 7,
+                "numSyllables": 2,
+                "hint": "Intelligent marine mammal"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660v",
+                "word": "giraffe",
+                "category": "animal",
+                "numLetters": 7,
+                "numSyllables": 2,
+                "hint": "Tall, long-necked mammal"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660w",
+                "word": "leopard",
+                "category": "animal",
+                "numLetters": 7,
+                "numSyllables": 2,
+                "hint": "Big cat with spots"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660x",
+                "word": "buffalo",
+                "category": "animal",
+                "numLetters": 7,
+                "numSyllables": 3,
+                "hint": "Large African mammal"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660y",
+                "word": "cheetah",
+                "category": "animal",
+                "numLetters": 7,
+                "numSyllables": 2,
+                "hint": "Fastest land animal"
+            }
+        ],
+        "8": [
+            {
+                "_id": "5fee49e11935ff7c8aa1660z",
+                "word": "elephant",
+                "category": "animal",
+                "numLetters": 8,
+                "numSyllables": 3,
+                "hint": "Large mammal with a trunk"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660aa",
+                "word": "alligator",
+                "category": "animal",
+                "numLetters": 9,
+                "numSyllables": 4,
+                "hint": "Large reptile with a long tail"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660ab",
+                "word": "crocodile",
+                "category": "animal",
+                "numLetters": 9,
+                "numSyllables": 3,
+                "hint": "Large reptile with a long snout"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660ac",
+                "word": "rhinoceros",
+                "category": "animal",
+                "numLetters": 10,
+                "numSyllables": 3,
+                "hint": "Large horned mammal"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660ad",
+                "word": "hippopotamus",
+                "category": "animal",
+                "numLetters": 12,
+                "numSyllables": 5,
+                "hint": "Large aquatic mammal"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660ae",
+                "word": "chimpanzee",
+                "category": "animal",
+                "numLetters": 10,
+                "numSyllables": 2,
+                "hint": "Primate with a high level of intelligence"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660af",
+                "word": "orangutan",
+                "category": "animal",
+                "numLetters": 9,
+                "numSyllables": 3,
+                "hint": "Great ape from Southeast Asia"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660ag",
+                "word": "squirrel",
+                "category": "animal",
+                "numLetters": 8,
+                "numSyllables": 2,
+                "hint": "Small rodent with a bushy tail"
+            }
+        ],
+        "9": [
+            {
+                "_id": "5fee49e11935ff7c8aa1660ah",
+                "word": "aardvark",
+                "category": "animal",
+                "numLetters": 8,
+                "numSyllables": 2,
+                "hint": "Nocturnal burrowing mammal"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660ai",
+                "word": "chinchilla",
+                "category": "animal",
+                "numLetters": 10,
+                "numSyllables": 3,
+                "hint": "Small South American rodent"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660aj",
+                "word": "kangaroo",
+                "category": "animal",
+                "numLetters": 8,
+                "numSyllables": 3,
+                "hint": "Australian marsupial"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660ak",
+                "word": "porcupine",
+                "category": "animal",
+                "numLetters": 9,
+                "numSyllables": 3,
+                "hint": "Spiky rodent"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660al",
+                "word": "chameleon",
+                "category": "animal",
+                "numLetters": 9,
+                "numSyllables": 3,
+                "hint": "Reptile that can change color"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660am",
+                "word": "hedgehog",
+                "category": "animal",
+                "numLetters": 8,
+                "numSyllables": 2,
+                "hint": "Spiny mammal"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660an",
+                "word": "porcupine",
+                "category": "animal",
+                "numLetters": 9,
+                "numSyllables": 3,
+                "hint": "Spiky rodent"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660ao",
+                "word": "orangutan",
+                "category": "animal",
+                "numLetters": 9,
+                "numSyllables": 3,
+                "hint": "Great ape from Southeast Asia"
+            }
+        ]
+    },
+    "fruits": {
+        "5": [
+            {
+                "_id": "5fee49e11935ff7c8aa1660ap",
+                "word": "apple",
+                "category": "fruit",
+                "numLetters": 5,
+                "numSyllables": 2,
+                "hint": "Red or green fruit"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660aq",
+                "word": "grape",
+                "category": "fruit",
+                "numLetters": 5,
+                "numSyllables": 1,
+                "hint": "Small, round fruit"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660ar",
+                "word": "kiwi",
+                "category": "fruit",
+                "numLetters": 4,
+                "numSyllables": 2,
+                "hint": "Small, brown, fuzzy fruit"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660as",
+                "word": "peach",
+                "category": "fruit",
+                "numLetters": 5,
+                "numSyllables": 1,
+                "hint": "Fuzzy, juicy fruit"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660at",
+                "word": "plum",
+                "category": "fruit",
+                "numLetters": 4,
+                "numSyllables": 1,
+                "hint": "Small, sweet fruit"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660au",
+                "word": "pear",
+                "category": "fruit",
+                "numLetters": 4,
+                "numSyllables": 1,
+                "hint": "Fruit with a core"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660av",
+                "word": "melon",
+                "category": "fruit",
+                "numLetters": 5,
+                "numSyllables": 2,
+                "hint": "Large, round fruit"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660aw",
+                "word": "guava",
+                "category": "fruit",
+                "numLetters": 5,
+                "numSyllables": 2,
+                "hint": "Tropical fruit with pink flesh"
+            }
+        ],
+        "6": [
+            {
+                "_id": "5fee49e11935ff7c8aa1660ax",
+                "word": "banana",
+                "category": "fruit",
+                "numLetters": 6,
+                "numSyllables": 3,
+                "hint": "Yellow curved fruit"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660ay",
+                "word": "orange",
+                "category": "fruit",
+                "numLetters": 6,
+                "numSyllables": 2,
+                "hint": "Citrus fruit"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660az",
+                "word": "mango",
+                "category": "fruit",
+                "numLetters": 5,
+                "numSyllables": 2,
+                "hint": "Tropical fruit with a large seed"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660ba",
+                "word": "tomato",
+                "category": "fruit",
+                "numLetters": 6,
+                "numSyllables": 3,
+                "hint": "Red fruit often used in salads"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660bb",
+                "word": "papaya",
+                "category": "fruit",
+                "numLetters": 6,
+                "numSyllables": 3,
+                "hint": "Tropical fruit with orange flesh"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660bc",
+                "word": "avocado",
+                "category": "fruit",
+                "numLetters": 7,
+                "numSyllables": 4,
+                "hint": "Fruit with a large pit"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660bd",
+                "word": "banana",
+                "category": "fruit",
+                "numLetters": 6,
+                "numSyllables": 3,
+                "hint": "Yellow curved fruit"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660be",
+                "word": "papaya",
+                "category": "fruit",
+                "numLetters": 6,
+                "numSyllables": 3,
+                "hint": "Tropical fruit with orange flesh"
+            }
+        ],
+        "7": [
+            {
+                "_id": "5fee49e11935ff7c8aa1660bf",
+                "word": "apricot",
+                "category": "fruit",
+                "numLetters": 7,
+                "numSyllables": 3,
+                "hint": "Small, orange fruit"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660bg",
+                "word": "pomegranate",
+                "category": "fruit",
+                "numLetters": 11,
+                "numSyllables": 4,
+                "hint": "Fruit with many seeds"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660bh",
+                "word": "pineapple",
+                "category": "fruit",
+                "numLetters": 9,
+                "numSyllables": 3,
+                "hint": "Tropical fruit with a spiky skin"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660bi",
+                "word": "blueberry",
+                "category": "fruit",
+                "numLetters": 9,
+                "numSyllables": 3,
+                "hint": "Small, round, blue fruit"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660bj",
+                "word": "raspberry",
+                "category": "fruit",
+                "numLetters": 9,
+                "numSyllables": 3,
+                "hint": "Red, juicy fruit"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660bk",
+                "word": "blackberry",
+                "category": "fruit",
+                "numLetters": 10,
+                "numSyllables": 3,
+                "hint": "Small, dark fruit"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660bl",
+                "word": "watermelon",
+                "category": "fruit",
+                "numLetters": 10,
+                "numSyllables": 4,
+                "hint": "Large, green fruit with red flesh"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660bm",
+                "word": "strawberry",
+                "category": "fruit",
+                "numLetters": 10,
+                "numSyllables": 3,
+                "hint": "Red, juicy fruit"
+            }
+        ],
+        "8": [
+            {
+                "_id": "5fee49e11935ff7c8aa1660bn",
+                "word": "blackberry",
+                "category": "fruit",
+                "numLetters": 10,
+                "numSyllables": 3,
+                "hint": "Small, dark fruit"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660bo",
+                "word": "pineapple",
+                "category": "fruit",
+                "numLetters": 9,
+                "numSyllables": 3,
+                "hint": "Tropical fruit with a spiky skin"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660bp",
+                "word": "watermelon",
+                "category": "fruit",
+                "numLetters": 10,
+                "numSyllables": 4,
+                "hint": "Large, green fruit with red flesh"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660bq",
+                "word": "strawberry",
+                "category": "fruit",
+                "numLetters": 10,
+                "numSyllables": 3,
+                "hint": "Red, juicy fruit"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660br",
+                "word": "blueberry",
+                "category": "fruit",
+                "numLetters": 9,
+                "numSyllables": 3,
+                "hint": "Small, round, blue fruit"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660bs",
+                "word": "pomegranate",
+                "category": "fruit",
+                "numLetters": 11,
+                "numSyllables": 4,
+                "hint": "Fruit with many seeds"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660bt",
+                "word": "persimmon",
+                "category": "fruit",
+                "numLetters": 9,
+                "numSyllables": 3,
+                "hint": "Orange fruit with a unique flavor"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660bu",
+                "word": "cantaloupe",
+                "category": "fruit",
+                "numLetters": 10,
+                "numSyllables": 4,
+                "hint": "Melon with orange flesh"
+            }
+        ],
+        "9": [
+            {
+                "_id": "5fee49e11935ff7c8aa1660bv",
+                "word": "blackberry",
+                "category": "fruit",
+                "numLetters": 10,
+                "numSyllables": 3,
+                "hint": "Small, dark fruit"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660bw",
+                "word": "cantaloupe",
+                "category": "fruit",
+                "numLetters": 10,
+                "numSyllables": 4,
+                "hint": "Melon with orange flesh"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660bx",
+                "word": "watermelon",
+                "category": "fruit",
+                "numLetters": 10,
+                "numSyllables": 4,
+                "hint": "Large, green fruit with red flesh"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660by",
+                "word": "persimmon",
+                "category": "fruit",
+                "numLetters": 9,
+                "numSyllables": 3,
+                "hint": "Orange fruit with a unique flavor"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660bz",
+                "word": "pomegranate",
+                "category": "fruit",
+                "numLetters": 11,
+                "numSyllables": 4,
+                "hint": "Fruit with many seeds"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660ca",
+                "word": "pineapple",
+                "category": "fruit",
+                "numLetters": 9,
+                "numSyllables": 3,
+                "hint": "Tropical fruit with a spiky skin"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660cb",
+                "word": "blueberry",
+                "category": "fruit",
+                "numLetters": 9,
+                "numSyllables": 3,
+                "hint": "Small, round, blue fruit"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660cc",
+                "word": "raspberry",
+                "category": "fruit",
+                "numLetters": 9,
+                "numSyllables": 3,
+                "hint": "Red, juicy fruit"
+            }
+        ]
+    },
+    "countries": {
+        "5": [
+            {
+                "_id": "5fee49e11935ff7c8aa1660cd",
+                "word": "spain",
+                "category": "country",
+                "numLetters": 5,
+                "numSyllables": 1,
+                "hint": "European country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660ce",
+                "word": "brazil",
+                "category": "country",
+                "numLetters": 6,
+                "numSyllables": 2,
+                "hint": "South American country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660cf",
+                "word": "india",
+                "category": "country",
+                "numLetters": 5,
+                "numSyllables": 2,
+                "hint": "Asian country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660cg",
+                "word": "canada",
+                "category": "country",
+                "numLetters": 6,
+                "numSyllables": 3,
+                "hint": "North American country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660ch",
+                "word": "japan",
+                "category": "country",
+                "numLetters": 5,
+                "numSyllables": 2,
+                "hint": "Asian country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660ci",
+                "word": "egypt",
+                "category": "country",
+                "numLetters": 5,
+                "numSyllables": 2,
+                "hint": "African country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660cj",
+                "word": "chile",
+                "category": "country",
+                "numLetters": 5,
+                "numSyllables": 2,
+                "hint": "South American country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660ck",
+                "word": "peru",
+                "category": "country",
+                "numLetters": 4,
+                "numSyllables": 2,
+                "hint": "South American country"
+            }
+        ],
+        "6": [
+            {
+                "_id": "5fee49e11935ff7c8aa1660cl",
+                "word": "mexico",
+                "category": "country",
+                "numLetters": 6,
+                "numSyllables": 3,
+                "hint": "North American country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660cm",
+                "word": "brazil",
+                "category": "country",
+                "numLetters": 6,
+                "numSyllables": 2,
+                "hint": "South American country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660cn",
+                "word": "japan",
+                "category": "country",
+                "numLetters": 5,
+                "numSyllables": 2,
+                "hint": "Asian country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660co",
+                "word": "france",
+                "category": "country",
+                "numLetters": 6,
+                "numSyllables": 1,
+                "hint": "European country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660cp",
+                "word": "greece",
+                "category": "country",
+                "numLetters": 6,
+                "numSyllables": 1,
+                "hint": "European country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660cq",
+                "word": "egypt",
+                "category": "country",
+                "numLetters": 5,
+                "numSyllables": 2,
+                "hint": "African country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660cr",
+                "word": "canada",
+                "category": "country",
+                "numLetters": 6,
+                "numSyllables": 3,
+                "hint": "North American country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660cs",
+                "word": "russia",
+                "category": "country",
+                "numLetters": 6,
+                "numSyllables": 2,
+                "hint": "Eurasian country"
+            }
+        ],
+        "7": [
+            {
+                "_id": "5fee49e11935ff7c8aa1660ct",
+                "word": "germany",
+                "category": "country",
+                "numLetters": 7,
+                "numSyllables": 2,
+                "hint": "European country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660cu",
+                "word": "brazil",
+                "category": "country",
+                "numLetters": 6,
+                "numSyllables": 2,
+                "hint": "South American country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660cv",
+                "word": "italy",
+                "category": "country",
+                "numLetters": 5,
+                "numSyllables": 3,
+                "hint": "European country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660cw",
+                "word": "canada",
+                "category": "country",
+                "numLetters": 6,
+                "numSyllables": 3,
+                "hint": "North American country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660cx",
+                "word": "brazil",
+                "category": "country",
+                "numLetters": 6,
+                "numSyllables": 2,
+                "hint": "South American country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660cy",
+                "word": "japan",
+                "category": "country",
+                "numLetters": 5,
+                "numSyllables": 2,
+                "hint": "Asian country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660cz",
+                "word": "france",
+                "category": "country",
+                "numLetters": 6,
+                "numSyllables": 1,
+                "hint": "European country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660da",
+                "word": "greece",
+                "category": "country",
+                "numLetters": 6,
+                "numSyllables": 1,
+                "hint": "European country"
+            }
+        ],
+        "8": [
+            {
+                "_id": "5fee49e11935ff7c8aa1660db",
+                "word": "australia",
+                "category": "country",
+                "numLetters": 9,
+                "numSyllables": 4,
+                "hint": "Country in Oceania"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660dc",
+                "word": "argentina",
+                "category": "country",
+                "numLetters": 9,
+                "numSyllables": 4,
+                "hint": "South American country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660dd",
+                "word": "indonesia",
+                "category": "country",
+                "numLetters": 9,
+                "numSyllables": 5,
+                "hint": "Southeast Asian country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660de",
+                "word": "bangladesh",
+                "category": "country",
+                "numLetters": 10,
+                "numSyllables": 3,
+                "hint": "South Asian country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660df",
+                "word": "afghanistan",
+                "category": "country",
+                "numLetters": 11,
+                "numSyllables": 4,
+                "hint": "Central Asian country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660dg",
+                "word": "philippines",
+                "category": "country",
+                "numLetters": 11,
+                "numSyllables": 4,
+                "hint": "Southeast Asian country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660dh",
+                "word": "afghanistan",
+                "category": "country",
+                "numLetters": 11,
+                "numSyllables": 4,
+                "hint": "Central Asian country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660di",
+                "word": "bangladesh",
+                "category": "country",
+                "numLetters": 10,
+                "numSyllables": 3,
+                "hint": "South Asian country"
+            }
+        ],
+        "9": [
+            {
+                "_id": "5fee49e11935ff7c8aa1660dj",
+                "word": "afghanistan",
+                "category": "country",
+                "numLetters": 11,
+                "numSyllables": 4,
+                "hint": "Central Asian country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660dk",
+                "word": "bangladesh",
+                "category": "country",
+                "numLetters": 10,
+                "numSyllables": 3,
+                "hint": "South Asian country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660dl",
+                "word": "afghanistan",
+                "category": "country",
+                "numLetters": 11,
+                "numSyllables": 4,
+                "hint": "Central Asian country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660dm",
+                "word": "philippines",
+                "category": "country",
+                "numLetters": 11,
+                "numSyllables": 4,
+                "hint": "Southeast Asian country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660dn",
+                "word": "indonesia",
+                "category": "country",
+                "numLetters": 9,
+                "numSyllables": 5,
+                "hint": "Southeast Asian country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660do",
+                "word": "australia",
+                "category": "country",
+                "numLetters": 9,
+                "numSyllables": 4,
+                "hint": "Country in Oceania"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660dp",
+                "word": "argentina",
+                "category": "country",
+                "numLetters": 9,
+                "numSyllables": 4,
+                "hint": "South American country"
+            },
+            {
+                "_id": "5fee49e11935ff7c8aa1660dq",
+                "word": "pakistan",
+                "category": "country",
+                "numLetters": 8,
+                "numSyllables": 3,
+                "hint": "South Asian country"
+            }
+        ]
+    },
+    "nature": {
+        "4": [
+            {
+                "_id": "5fee6a276011a1dcf6a08491",
+                "word": "tree",
+                "category": "nature",
+                "numLetters": 4,
+                "numSyllables": 1,
+                "hint": "Tall plant with branches"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a08492",
+                "word": "fern",
+                "category": "nature",
+                "numLetters": 4,
+                "numSyllables": 1,
+                "hint": "Leafy green plant"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a08493",
+                "word": "lake",
+                "category": "nature",
+                "numLetters": 4,
+                "numSyllables": 1,
+                "hint": "Large body of water"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a08494",
+                "word": "moon",
+                "category": "nature",
+                "numLetters": 4,
+                "numSyllables": 1,
+                "hint": "Earth's natural satellite"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a08495",
+                "word": "bird",
+                "category": "nature",
+                "numLetters": 4,
+                "numSyllables": 1,
+                "hint": "Feathered animal"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a08496",
+                "word": "tree",
+                "category": "nature",
+                "numLetters": 4,
+                "numSyllables": 1,
+                "hint": "Tall plant with branches"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a08497",
+                "word": "fern",
+                "category": "nature",
+                "numLetters": 4,
+                "numSyllables": 1,
+                "hint": "Leafy green plant"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a08498",
+                "word": "lake",
+                "category": "nature",
+                "numLetters": 4,
+                "numSyllables": 1,
+                "hint": "Large body of water"
+            }
+        ],
+        "5": [
+            {
+                "_id": "5fee6a276011a1dcf6a08499",
+                "word": "cloud",
+                "category": "nature",
+                "numLetters": 5,
+                "numSyllables": 1,
+                "hint": "Visible mass of water droplets"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a0849a",
+                "word": "grass",
+                "category": "nature",
+                "numLetters": 5,
+                "numSyllables": 1,
+                "hint": "Green plant used as ground cover"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a0849b",
+                "word": "stone",
+                "category": "nature",
+                "numLetters": 5,
+                "numSyllables": 1,
+                "hint": "Hard, solid mineral material"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a0849c",
+                "word": "earth",
+                "category": "nature",
+                "numLetters": 5,
+                "numSyllables": 1,
+                "hint": "Third planet from the sun"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a0849d",
+                "word": "snake",
+                "category": "nature",
+                "numLetters": 5,
+                "numSyllables": 1,
+                "hint": "Long, legless reptile"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a0849e",
+                "word": "cloud",
+                "category": "nature",
+                "numLetters": 5,
+                "numSyllables": 1,
+                "hint": "Visible mass of water droplets"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a0849f",
+                "word": "grass",
+                "category": "nature",
+                "numLetters": 5,
+                "numSyllables": 1,
+                "hint": "Green plant used as ground cover"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a084a0",
+                "word": "stone",
+                "category": "nature",
+                "numLetters": 5,
+                "numSyllables": 1,
+                "hint": "Hard, solid mineral material"
+            }
+        ],
+        "6": [
+            {
+                "_id": "5fee6a276011a1dcf6a084a1",
+                "word": "flower",
+                "category": "nature",
+                "numLetters": 6,
+                "numSyllables": 2,
+                "hint": "Blossoming plant"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a084a2",
+                "word": "stream",
+                "category": "nature",
+                "numLetters": 6,
+                "numSyllables": 1,
+                "hint": "Small river"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a084a3",
+                "word": "forest",
+                "category": "nature",
+                "numLetters": 6,
+                "numSyllables": 2,
+                "hint": "Thick wooded area"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a084a4",
+                "word": "season",
+                "category": "nature",
+                "numLetters": 6,
+                "numSyllables": 2,
+                "hint": "Time division based on weather"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a084a5",
+                "word": "flower",
+                "category": "nature",
+                "numLetters": 6,
+                "numSyllables": 2,
+                "hint": "Blossoming plant"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a084a6",
+                "word": "stream",
+                "category": "nature",
+                "numLetters": 6,
+                "numSyllables": 1,
+                "hint": "Small river"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a084a7",
+                "word": "forest",
+                "category": "nature",
+                "numLetters": 6,
+                "numSyllables": 2,
+                "hint": "Thick wooded area"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a084a8",
+                "word": "season",
+                "category": "nature",
+                "numLetters": 6,
+                "numSyllables": 2,
+                "hint": "Time division based on weather"
+            }
+        ],
+        "7": [
+            {
+                "_id": "5fee6a276011a1dcf6a084a9",
+                "word": "mountain",
+                "category": "nature",
+                "numLetters": 8,
+                "numSyllables": 2,
+                "hint": "Tall landform"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a084aa",
+                "word": "rainbow",
+                "category": "nature",
+                "numLetters": 7,
+                "numSyllables": 2,
+                "hint": "Colorful arc in the sky"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a084ab",
+                "word": "weather",
+                "category": "nature",
+                "numLetters": 7,
+                "numSyllables": 2,
+                "hint": "State of the atmosphere"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a084ac",
+                "word": "sunrise",
+                "category": "nature",
+                "numLetters": 7,
+                "numSyllables": 2,
+                "hint": "Morning event when the sun appears"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a084ad",
+                "word": "mountain",
+                "category": "nature",
+                "numLetters": 8,
+                "numSyllables": 2,
+                "hint": "Tall landform"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a084ae",
+                "word": "rainbow",
+                "category": "nature",
+                "numLetters": 7,
+                "numSyllables": 2,
+                "hint": "Colorful arc in the sky"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a084af",
+                "word": "weather",
+                "category": "nature",
+                "numLetters": 7,
+                "numSyllables": 2,
+                "hint": "State of the atmosphere"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a084b0",
+                "word": "sunrise",
+                "category": "nature",
+                "numLetters": 7,
+                "numSyllables": 2,
+                "hint": "Morning event when the sun appears"
+            }
+        ],
+        "8": [
+            {
+                "_id": "5fee6a276011a1dcf6a084b1",
+                "word": "wildlife",
+                "category": "nature",
+                "numLetters": 8,
+                "numSyllables": 2,
+                "hint": "Animals living in nature"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a084b2",
+                "word": "rainfall",
+                "category": "nature",
+                "numLetters": 8,
+                "numSyllables": 2,
+                "hint": "Amount of rain"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a084b3",
+                "word": "wildfire",
+                "category": "nature",
+                "numLetters": 8,
+                "numSyllables": 2,
+                "hint": "Uncontrolled fire in nature"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a084b4",
+                "word": "moonrise",
+                "category": "nature",
+                "numLetters": 8,
+                "numSyllables": 2,
+                "hint": "Event when the moon appears"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a084b5",
+                "word": "wildlife",
+                "category": "nature",
+                "numLetters": 8,
+                "numSyllables": 2,
+                "hint": "Animals living in nature"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a084b6",
+                "word": "rainfall",
+                "category": "nature",
+                "numLetters": 8,
+                "numSyllables": 2,
+                "hint": "Amount of rain"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a084b7",
+                "word": "wildfire",
+                "category": "nature",
+                "numLetters": 8,
+                "numSyllables": 2,
+                "hint": "Uncontrolled fire in nature"
+            },
+            {
+                "_id": "5fee6a276011a1dcf6a084b8",
+                "word": "moonrise",
+                "category": "nature",
+                "numLetters": 8,
+                "numSyllables": 2,
+                "hint": "Event when the moon appears"
+            }
+        ]
+    },
+    "objects": {
+        "4": [
+            {
+                "_id": "5fee6b356011a1dcf6a08491",
+                "word": "lamp",
+                "category": "objects",
+                "numLetters": 4,
+                "numSyllables": 1,
+                "hint": "Light source"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a08492",
+                "word": "desk",
+                "category": "objects",
+                "numLetters": 4,
+                "numSyllables": 1,
+                "hint": "Furniture for working"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a08493",
+                "word": "book",
+                "category": "objects",
+                "numLetters": 4,
+                "numSyllables": 1,
+                "hint": "Contains stories or information"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a08494",
+                "word": "bell",
+                "category": "objects",
+                "numLetters": 4,
+                "numSyllables": 1,
+                "hint": "Makes a sound when rung"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a08495",
+                "word": "pen",
+                "category": "objects",
+                "numLetters": 4,
+                "numSyllables": 1,
+                "hint": "Used for writing"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a08496",
+                "word": "lamp",
+                "category": "objects",
+                "numLetters": 4,
+                "numSyllables": 1,
+                "hint": "Light source"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a08497",
+                "word": "desk",
+                "category": "objects",
+                "numLetters": 4,
+                "numSyllables": 1,
+                "hint": "Furniture for working"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a08498",
+                "word": "book",
+                "category": "objects",
+                "numLetters": 4,
+                "numSyllables": 1,
+                "hint": "Contains stories or information"
+            }
+        ],
+        "5": [
+            {
+                "_id": "5fee6b356011a1dcf6a08499",
+                "word": "clock",
+                "category": "objects",
+                "numLetters": 5,
+                "numSyllables": 1,
+                "hint": "Tells time"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a0849a",
+                "word": "chair",
+                "category": "objects",
+                "numLetters": 5,
+                "numSyllables": 1,
+                "hint": "For sitting"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a0849b",
+                "word": "table",
+                "category": "objects",
+                "numLetters": 5,
+                "numSyllables": 1,
+                "hint": "For eating or working"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a0849c",
+                "word": "light",
+                "category": "objects",
+                "numLetters": 5,
+                "numSyllables": 1,
+                "hint": "Source of illumination"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a0849d",
+                "word": "music",
+                "category": "objects",
+                "numLetters": 5,
+                "numSyllables": 2,
+                "hint": "Sounds and melodies"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a0849e",
+                "word": "clock",
+                "category": "objects",
+                "numLetters": 5,
+                "numSyllables": 1,
+                "hint": "Tells time"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a0849f",
+                "word": "chair",
+                "category": "objects",
+                "numLetters": 5,
+                "numSyllables": 1,
+                "hint": "For sitting"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a084a0",
+                "word": "table",
+                "category": "objects",
+                "numLetters": 5,
+                "numSyllables": 1,
+                "hint": "For eating or working"
+            }
+        ],
+        "6": [
+            {
+                "_id": "5fee6b356011a1dcf6a084a1",
+                "word": "mirror",
+                "category": "objects",
+                "numLetters": 6,
+                "numSyllables": 2,
+                "hint": "Reflective surface"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a084a2",
+                "word": "camera",
+                "category": "objects",
+                "numLetters": 6,
+                "numSyllables": 3,
+                "hint": "Captures images"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a084a3",
+                "word": "laptop",
+                "category": "objects",
+                "numLetters": 6,
+                "numSyllables": 2,
+                "hint": "Portable computer"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a084a4",
+                "word": "pencil",
+                "category": "objects",
+                "numLetters": 6,
+                "numSyllables": 2,
+                "hint": "Writing tool"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a084a5",
+                "word": "candle",
+                "category": "objects",
+                "numLetters": 6,
+                "numSyllables": 2,
+                "hint": "Wax stick for light"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a084a6",
+                "word": "mirror",
+                "category": "objects",
+                "numLetters": 6,
+                "numSyllables": 2,
+                "hint": "Reflective surface"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a084a7",
+                "word": "camera",
+                "category": "objects",
+                "numLetters": 6,
+                "numSyllables": 3,
+                "hint": "Captures images"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a084a8",
+                "word": "laptop",
+                "category": "objects",
+                "numLetters": 6,
+                "numSyllables": 2,
+                "hint": "Portable computer"
+            }
+        ],
+        "7": [
+            {
+                "_id": "5fee6b356011a1dcf6a084a9",
+                "word": "wardrobe",
+                "category": "objects",
+                "numLetters": 8,
+                "numSyllables": 2,
+                "hint": "Clothing storage"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a084aa",
+                "word": "computer",
+                "category": "objects",
+                "numLetters": 8,
+                "numSyllables": 3,
+                "hint": "Electronic device"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a084ab",
+                "word": "keyboard",
+                "category": "objects",
+                "numLetters": 8,
+                "numSyllables": 2,
+                "hint": "Input device"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a084ac",
+                "word": "backpack",
+                "category": "objects",
+                "numLetters": 8,
+                "numSyllables": 2,
+                "hint": "Carries items on the back"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a084ad",
+                "word": "calendar",
+                "category": "objects",
+                "numLetters": 8,
+                "numSyllables": 3,
+                "hint": "Organizes days and dates"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a084ae",
+                "word": "wardrobe",
+                "category": "objects",
+                "numLetters": 8,
+                "numSyllables": 2,
+                "hint": "Clothing storage"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a084af",
+                "word": "computer",
+                "category": "objects",
+                "numLetters": 8,
+                "numSyllables": 3,
+                "hint": "Electronic device"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a084b0",
+                "word": "keyboard",
+                "category": "objects",
+                "numLetters": 8,
+                "numSyllables": 2,
+                "hint": "Input device"
+            }
+        ],
+        "8": [
+            {
+                "_id": "5fee6b356011a1dcf6a084a9",
+                "word": "wardrobe",
+                "category": "objects",
+                "numLetters": 8,
+                "numSyllables": 2,
+                "hint": "Clothing storage"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a084aa",
+                "word": "computer",
+                "category": "objects",
+                "numLetters": 8,
+                "numSyllables": 3,
+                "hint": "Electronic device"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a084ab",
+                "word": "keyboard",
+                "category": "objects",
+                "numLetters": 8,
+                "numSyllables": 2,
+                "hint": "Input device"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a084ac",
+                "word": "backpack",
+                "category": "objects",
+                "numLetters": 8,
+                "numSyllables": 2,
+                "hint": "Carries items on the back"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a084ad",
+                "word": "calendar",
+                "category": "objects",
+                "numLetters": 8,
+                "numSyllables": 3,
+                "hint": "Organizes days and dates"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a084ae",
+                "word": "wardrobe",
+                "category": "objects",
+                "numLetters": 8,
+                "numSyllables": 2,
+                "hint": "Clothing storage"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a084af",
+                "word": "computer",
+                "category": "objects",
+                "numLetters": 8,
+                "numSyllables": 3,
+                "hint": "Electronic device"
+            },
+            {
+                "_id": "5fee6b356011a1dcf6a084b0",
+                "word": "keyboard",
+                "category": "objects",
+                "numLetters": 8,
+                "numSyllables": 2,
+                "hint": "Input device"
+            }
+        ]
+    }
+}
