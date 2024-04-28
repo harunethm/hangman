@@ -1,3 +1,3 @@
 # hangman
 
-A new Flutter project.
+We all know the game HANGMAN.
